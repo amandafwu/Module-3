@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ## this is my edit for v3 
 ## this time, i was not able to push it to github which is a good sign because that's what it's supposed to do
+## this is an edit to see if step 4 merge to github was done correctly and i can now push onto github
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
